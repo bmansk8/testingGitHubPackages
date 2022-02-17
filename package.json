@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bmansk8/testingGitHubPackages/issues"
   },
-  "homepage": "https://github.com/bmansk8/testingGitHubPackages#readme"
+  "homepage": "https://github.com/bmansk8/testingGitHubPackages#readme",
+  "publishConfig": {
+    "@bmansk8:registry": "https://npm.pkg.github.com"
+  }
 }
