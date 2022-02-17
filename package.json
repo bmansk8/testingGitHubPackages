@@ -1,0 +1,19 @@
+{
+  "name": "@bmansk8/testinggithubpackages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmansk8/testingGitHubPackages.git"
+  },
+  "author": "Barron Brock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmansk8/testingGitHubPackages/issues"
+  },
+  "homepage": "https://github.com/bmansk8/testingGitHubPackages#readme"
+}
